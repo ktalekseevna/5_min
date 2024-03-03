@@ -1,0 +1,12 @@
+.my_btn{
+    background-color: #8E49FF;
+    border-radius: 1rem;
+    color: white;
+    font-weight: 600;
+}
+
+.form-control {
+    background-color:#F8F8FA;
+    border: 0px solid #ced4da00;
+    border-radius: 1rem;
+}
